@@ -26,7 +26,11 @@ The candidates results were:
   Raymon Anthony Doane: 3.1% (11,606)
 The winner of the election was:
   Diana DeGette who received 272,892 votes which is 73.8%
-
+County Votes:
+  Jefferson: 10.5% (38,855)
+  Denver: 82.8% (306,055)
+  Arapahoe: 6.7% (24,801)
+Denver had the largest number of votes
 ## Challenge Overview
   Some of the difficulties I faced with this challenge was when to input code into VSC or the VSC Terminal section. I also ran into some trouble with the code but I was able to redo it to find my mistakes.
 
